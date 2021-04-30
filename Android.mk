@@ -1,4 +1,4 @@
-# KrisWebDev[n01ce] Android.mk to build aircrack-ng suite for Android
+# Strix Cyber Community Android.mk to build aircrack-ng suite for Android
 # Android.mk version: 1.1
 
 LOCAL_PATH:=$(call my-dir)
