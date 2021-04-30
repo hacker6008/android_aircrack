@@ -1,4 +1,4 @@
-<p align="center"><img src="https://lh3.googleusercontent.com/-SNmFNFLRSNA/YIwHXpoozJI/AAAAAAAAAeU/W_W9HYRK-HoEui3z2tGOvgQ7aSf4CyLPACNcBGAsYHQ/w180-h320/WhatsApp%2BImage%2B2021-04-30%2Bat%2B6.53.49%2BPM.jpeg"></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/-SNmFNFLRSNA/YIwHXpoozJI/AAAAAAAAAeU/W_W9HYRK-HoEui3z2tGOvgQ7aSf4CyLPACNcBGAsYHQ/w360-h640/WhatsApp%2BImage%2B2021-04-30%2Bat%2B6.53.49%2BPM.jpeg"></p>
 
 
 <p align="center">
